@@ -8,7 +8,7 @@ This program was written and used with Epic Seven running full screen on BlueSta
 
 ## Guide for players (some Python proficiency)
 
-1. Install required libraries with `pip install pyautogui keyboard pywin32`
+1. Install required libraries with `pip install pyautogui keyboard pywin32 opencv-python`
 2. Replace the images with snips of your own. I used the built-in snipping tool for windows.
 
 > Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
@@ -20,7 +20,7 @@ This program was written and used with Epic Seven running full screen on BlueSta
 1. Download this folder from GitHub by clicking the `Code` button and then `Download ZIP` or using [this](https://github.com/kynapy/e7-shop-auto-refresh/archive/refs/heads/main.zip). Unzip the file with an unzipping software of your choice.
 2. Install Python! Simply download the latest version of Python3 at [their website](https://www.python.org/downloads/).
 3. Open up the Command Prompt after installing Python. If Python3 is successfully installed, typing in `python --version` should tell you your currently installed Python version.
-4. Install the required Python libraries by typing in `pip install pyautogui keyboard pywin32` in the Command Prompt. Let it run for a bit, and afterwards, you can close your Command Prompt. :)
+4. Install the required Python libraries by typing in `pip install pyautogui keyboard pywin32 opencv-python` in the Command Prompt. Let it run for a bit, and afterwards, you can close your Command Prompt. :)
 5. Open up Epic Seven in full screen on BlueStacks and take snips (I used the built-in Snipping Tool in Windows) to replace the images in the `/images` folder.
 
 > Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
