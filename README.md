@@ -11,7 +11,7 @@ This program was written and used with Epic Seven running full screen on BlueSta
 1. Install required libraries with `pip install pyautogui keyboard pywin32 opencv-python`
 2. Replace the images with snips of your own. I used the built-in snipping tool for windows.
 
-> Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
+    > Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
 
 3. Run the program.
 
@@ -23,7 +23,7 @@ This program was written and used with Epic Seven running full screen on BlueSta
 4. Install the required Python libraries by typing in `pip install pyautogui keyboard pywin32 opencv-python` in the Command Prompt. Let it run for a bit, and afterwards, you can close your Command Prompt. :)
 5. Open up Epic Seven in full screen on BlueStacks and take snips (I used the built-in Snipping Tool in Windows) to replace the images in the `/images` folder.
 
-> Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
+    > Note: You would need to do some refreshing yourself to find Mystics and Covenants bookmarks to take screenshots of, but you only have to do it once on the device you are using. The `buyCovenantButton.png` and `buyMysticButton.png` are the ones from the second confirmation, not the ones at the right side of the shop, so click on buy first, then take a snip of the buy button when the confirmation pops up.
 
 6. With the installation of Python3 comes along a built-in Integrated Development Environment (IDE) called IDLE, which is sufficient for our use case. Simply use the Windows search to look for IDLE and open it up.
 7. On the top left, click on File -> Open, and open where you downloaded the folder, and open the `autoRefresh.py` file. This should open up the code.
